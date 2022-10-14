@@ -1,3 +1,5 @@
+## Scrabble Challenge Java
+
 ### Project Objectives
 
 This project's aim is to test the understanding of java fundamentals by creating a scrabble game.
